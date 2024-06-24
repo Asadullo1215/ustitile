@@ -1,0 +1,93 @@
+.hero {
+    background-color: #926FF6;
+}
+.titile-1 {
+    color:  #FFE074;
+    font-size: 12px;
+}
+.titile-2 {
+    font-size: 41px;
+    font-weight: 800;
+    color: #Fff;
+}
+
+.text-1 {
+    color: #Fff;
+}
+.lero {
+   width: 300px;;
+}
+.dif-2 {
+    font-size: 21;
+    font-weight: 500;
+}
+.puro {
+    font-size: 22px;
+    color: #4F4F4F;
+}
+.about {
+    color: #FFAE00;
+
+}
+
+.gils {
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.gil_header {
+    font-weight: 500;
+    font-size: 25px;
+    color: #0B132A;
+    margin: 0;
+}
+.gil_text {
+    color: #4F4F4F;
+    font-size: 20px ;
+}
+.low_header {
+    color: #FFAE00;
+}
+
+.low_list {
+    background-color: #F3849F;
+    width: 51px;
+    text-align: center;
+    border-radius: 15px;
+    color: #4F4F4F;
+}
+.text-img-1 {
+    color: #4F4F4F;
+    font-weight: 500;
+    width: 280px;
+}
+.imiges-titile-1 {
+    color: #F3849F;
+}
+.imiges-titile-2 {
+    color: 
+    #926FF6;
+}
+.imiges-titile-3 {
+    color: 
+    #79CFFF;
+}
+.head-loook {
+    color: #FFAE00;
+}
+.head-titile {
+    font-size: 24px;
+    font-weight: 500;
+    color: #4F4F4F;
+}
+.footer {
+    height: 154px;
+    width: 100%;
+    background-color: #333333;
+}
+.blog {
+    width: 100%;
+    background-color:#F7EEFF;
+}
+
+
+
